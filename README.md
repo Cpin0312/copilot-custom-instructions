@@ -2,7 +2,8 @@
 
 Microsoft 365 Copilot に貼る「カスタム指示」の文です。Copilot が、結論を先に短く答え、推測で埋めず、送信や削除の前に確認を取るようにします。
 
-- 本文：[custom-instructions.md](custom-instructions.md)（そのままコピーして貼れます）
+- カスタム指示＝いつも効く話し方：[custom-instructions.md](custom-instructions.md)（そのままコピーして貼れます）
+- エージェント＝ファイル解説の専用係：[agent-file-explainer.md](agent-file-explainer.md)（名前・説明・指示・最初に出すボタン。「指示」は2本の「---」の間を貼ります）
 - コピーボタンのページ：[index.html](index.html)（ダウンロードして、ブラウザで開く）
 
 ## 貼る場所
